@@ -1,0 +1,2 @@
+/dev/cu.usbserial-A5069RR4
+1200
